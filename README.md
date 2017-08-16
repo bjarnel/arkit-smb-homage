@@ -1,5 +1,5 @@
 # arkit-smb-homage
-Bjarne Lundgren / bjarne@sent.com / @bjarnel
+Bjarne Lundgren / bjarne@sent.com / [@bjarnel](https://twitter.com/bjarnel)
 
 This project is a homage to Super Mario Bros. It does not, however, contain ANY original Nintendo content, nor is it an exact implementation of Super Mario Bros.
 
