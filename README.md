@@ -21,6 +21,8 @@ Sound effects are all from freesound.org, by the following users: vortencho12, r
 
 Font used: Emulogic by Freaky Fonts http://www.fontspace.com/freaky-fonts/emulogic
 
+Made with support and feedback from @ARKitweekly
+
 License
 =======
 The code written in this project is covered by the Apache License, however the different 3rd party artworks/textures and sound effects are covered by their own original licenses - in most cases this means a non-commercial use.
