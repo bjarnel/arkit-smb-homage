@@ -21,9 +21,8 @@ Sound effects are all from freesound.org, by the following users: vortencho12, r
 
 Font used: Emulogic by Freaky Fonts
 
-Thanks to Sam at @arkitweekly for feedback & creative input
+Thanks to Sam at [@ARKitweekly](https://twitter.com/arkitweekly) for feedback & creative input
 
-https://twitter.com/arkitweekly
 
 License
 =======
