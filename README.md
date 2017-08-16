@@ -19,9 +19,11 @@ Textures: Bjarne Lundgren, deviantart bhaskar655, deviantart jojo_ojoj, Mads Ves
 
 Sound effects are all from freesound.org, by the following users: vortencho12, runningmind, thedweebman, greenhourglass, taira-komori and lulyc.
 
-Font used: Emulogic by Freaky Fonts http://www.fontspace.com/freaky-fonts/emulogic
+Font used: Emulogic by Freaky Fonts
 
-Made with support and feedback from @ARKitweekly
+Thanks to Sam at @arkitweekly for feedback & creative input
+
+https://twitter.com/arkitweekly
 
 License
 =======
