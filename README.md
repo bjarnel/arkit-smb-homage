@@ -11,6 +11,8 @@ In this project I have experimented a bit with displacement maps (a new iOS 11 B
 
 This obviously requires, Xcode 9 (BETA), iOS 11 (BETA) and a relatively recent iOS device.
 
+[![Super Mario with ARKit](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/youtube_vid.png)](https://www.youtube.com/watch?v=Q15ertkV0gc&feature=youtu.be "Super Mario with ARKit")
+
 Contributions
 =======
 The code was written by your truly, however _some_ of the textures and the sound effects were created by other people.
