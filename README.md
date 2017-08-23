@@ -15,17 +15,17 @@ You can pretty much do want you want with the code, but please provide attributi
 
 Unedited gameplay video (youtube):
 
-[![Super Mario with ARKit](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/youtube_vid.png)](https://www.youtube.com/watch?v=Q15ertkV0gc&feature=youtu.be "Super Mario with ARKit")
+[![Super Mario with ARKit](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/youtube_vid.png)](https://www.youtube.com/watch?v=Q15ertkV0gc&feature=youtu.be "Super Mario with ARKit")
 
 Screenshots (click for bigger version:
 
-[![Beginning of level](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-beginning-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-beginning.png "Beginning of level")
-[![Some blocks](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-blocks-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-blocks.png "Some blocks")
-[![Some tubes](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-tubes-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-tubes.png "Some tubes")
+[![Beginning of level](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-beginning-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-beginning.png "Beginning of level")
+[![Some blocks](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-blocks-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-blocks.png "Some blocks")
+[![Some tubes](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-tubes-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-tubes.png "Some tubes")
 
-[![Lava pit](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-lavapit-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-lavapit.png "Lava pit")
-[![Flag pole](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-flag-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-flag.png "Flag pole")
-[![Level complete](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-levelcomplete-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-levelcomplete.png "Level complete")
+[![Lava pit](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-lavapit-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-lavapit.png "Lava pit")
+[![Flag pole](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-flag-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-flag.png "Flag pole")
+[![Level complete](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-levelcomplete-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/img/screenshot-levelcomplete.png "Level complete")
 
 
 Contributions
