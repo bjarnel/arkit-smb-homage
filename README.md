@@ -11,7 +11,22 @@ In this project I have experimented a bit with displacement maps (a new iOS 11 B
 
 This obviously requires, Xcode 9 (BETA), iOS 11 (BETA) and a relatively recent iOS device.
 
+You can pretty much do want you want with the code, but please provide attribution, also if you use it to create a video.
+
+Unedited gameplay video (youtube):
+
 [![Super Mario with ARKit](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/youtube_vid.png)](https://www.youtube.com/watch?v=Q15ertkV0gc&feature=youtu.be "Super Mario with ARKit")
+
+Screenshots (click for bigger version:
+
+[![Beginning of level](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-beginning-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-beginning.png "Beginning of level")
+[![Some blocks](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-blocks-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-blocks.png "Some blocks")
+[![Some tubes](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-tubes-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-tubes.png "Some tubes")
+
+[![Lava pit](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-lavapit-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-lavapit.png "Lava pit")
+[![Flag pole](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-flag-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-flag.png "Flag pole")
+[![Level complete](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-levelcomplete-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-smb-homage/master/screenshot-levelcomplete.png "Level complete")
+
 
 Contributions
 =======
